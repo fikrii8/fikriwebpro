@@ -1,6 +1,6 @@
 <?php
 $pilihan = 3;
-
+//fikri
 $angka1 = -3;
 $angka2 = -1;
 $penjumlahan = $angka1 + $angka2;
